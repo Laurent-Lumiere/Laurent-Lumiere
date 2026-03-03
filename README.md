@@ -1,22 +1,14 @@
-# 👋 Bonjour ! C'est Laurent
+# Ich bin Lorenz
 
-*Lorenz Fedor Klemens von Vitrimont*. Étudiant en **informatique** et passionné de **physique**. 
+*Lorenz Fedor Klemens von Vitrimont*. Student der **Informatik** und leidenschaftlich interessiert an **Physik**.
 
----
+## Kompetenzen
+- 🇨🇳Chinesisch (Muttersprache), 🇬🇧Englisch (Fließend), 🇫🇷Französisch (en apprenant) & 🇩🇪Deutsch (Ich lerne gerade)
+- C++, Python, Rust, LaTeX — mit Fokus auf Hochleistungsrechnen (HPC)
+- 🎹Klavier
+- Linux Benutzer
 
-### 🛠️ Compétences (Skills)
-
-#### 🗣️ Langues & Apprentissage
-- 🇨🇳 **Chinois** (Maternel)
-- 🇬🇧 **English** (Courant)
-- 🇫🇷 **Français** : `En cours d'apprentissage` 🚧
-- 🇩🇪 **Deutsch** : `Ich lerne gerade` 📖
-
-#### 💻 Programmation & Outils
-- **Languages:** `C++`, `Python`, `Rust`
-- **Physique Numérique:** `LaTeX`
-
----
-
-### 📫 Contact
-- 📧 [laurentlumiere1789@gmail.com] (Peu consulté)
+## Über mich
+- Ein **zivilisationspessimistisch** gefärbter Denker mit ausgeprägtem Geschichtsbewusstsein und stoischer Gelassenheit
+- Physik-Einsteiger — auf dem Weg von der Intuition zur Formalität
+- Leidenschaftliche Chopin-Verehrung
